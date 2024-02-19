@@ -3,6 +3,8 @@
 I'm a Computer Engineering student at UB. On my profile, you'll find various programming projects I've worked on, showcasing my skills and passion for solving problems and creating innovative solutions.
 
 ## Skills
+Below are the programming languages, frameworks, and libraries I am proficient in, along with example projects to illustrate my practical experience.
+
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
