@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hello
 
 I'm Pedro Sendon, a computer engineering student at UB. On my profile, you'll find some programming projects I've worked on.
 
