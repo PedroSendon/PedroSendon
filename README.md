@@ -26,8 +26,6 @@ Below are the programming languages, frameworks, and libraries I am proficient i
 ![Scikit-image](https://img.shields.io/badge/Scikit--image-F7931E?style=for-the-badge&logo=scikit-image&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC2927?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
-## Stats
-
 ## Contact Me
 
 I'm open to collaboration opportunities and interesting projects. Feel free to reach out:
