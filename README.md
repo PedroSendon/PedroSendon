@@ -1,42 +1,28 @@
-# Hello
+# Hello, I'm Pedro Sendon 👋
 
-I'm Pedro Sendon, a computer engineering student at UB. On my profile, you'll find some programming projects I've worked on.
-
-
+I'm a Computer Engineering student at UB. On my profile, you'll find various programming projects I've worked on, showcasing my skills and passion for solving problems and creating innovative solutions.
 
 ## Skills
 
-In this section, you'll find a variety of programming languages, frameworks, and libraries that I'm proficient in.
+Below are the programming languages, frameworks, and libraries I am proficient in, along with example projects to illustrate my practical experience.
 
-### Programming Languages
-- JavaScript
-https://camo.githubusercontent.com/58c180ee2cc0b46b7718842455777fc9eeb7bb9f4d20ca07b87ac39a7111fd97/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432d4138423943433f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d626c61636b
-- C++
-- HTML5
-- Python
-
-### Frameworks
-- React
-- Vue
-- FastAPI
-- SQL
-- RStudio
-- Matplotlib
-- NumPy
-- Scikit-image
-- SQLAlchemy
-
-
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true)
-
-
+### Programming Languages
+JavaScript: Developed frontend projects with complex interactivity.
+C++: High-performance applications and embedded systems.
+HTML5: Structuring responsive websites.
+Python: Automation, data analysis, and backend development.
+### Frameworks and Libraries
+React & Vue: Modern, reactive SPA applications.
+FastAPI & SQLAlchemy: Robust APIs and efficient database handling.
+SQL: Database design and optimization.
+RStudio: Statistical analysis and data visualization.
+Matplotlib & NumPy: Scientific data visualization and array manipulation.
+Scikit-image: Image processing and analysis for computer vision applications.
+Stats
 
 ## Contact Me
 
-Feel free to reach out to me via:
+I'm open to collaboration opportunities and interesting projects. Feel free to reach out:
 
-- Email: pedrosendon01@gmail.com
-- LinkedIn: 
+Email: pedrosendon01@gmail.com
+LinkedIn: LinkedIn Profile
