@@ -18,7 +18,7 @@ SQL: Database design and optimization.
 RStudio: Statistical analysis and data visualization.
 Matplotlib & NumPy: Scientific data visualization and array manipulation.
 Scikit-image: Image processing and analysis for computer vision applications.
-Stats
+## Stats
 
 ## Contact Me
 
