@@ -10,7 +10,7 @@ In this section, you'll find a variety of programming languages, frameworks, and
 
 ### Programming Languages
 - JavaScript
-- C
+https://camo.githubusercontent.com/58c180ee2cc0b46b7718842455777fc9eeb7bb9f4d20ca07b87ac39a7111fd97/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432d4138423943433f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d626c61636b
 - C++
 - HTML5
 - Python
