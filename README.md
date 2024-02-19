@@ -31,4 +31,5 @@ Below are the programming languages, frameworks, and libraries I am proficient i
 I'm open to collaboration opportunities and interesting projects. Feel free to reach out:
 
 Email: pedrosendon01@gmail.com
-LinkedIn: LinkedIn Profile
+
+LinkedIn: 
